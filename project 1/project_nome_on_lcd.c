@@ -19,12 +19,12 @@
 
 uint16_t contador = 0;
 
-unsigned char nome_1 [17] = "Romano Bibiano ";
-uint8_t nome_2 [17] = "Gabriel Baldo ";
+unsigned char nome_1 [17] = "xxxxxxx xxxxxxx ";
+uint8_t nome_2 [17] = "xxxxxxx xxxxxxx ";
 uint8_t nome_3 [17] = "Andre Fonseca ";
-unsigned char RA_1 [17] = "1600732221002";
-uint8_t RA_2 [17] = "1600732413028";
-uint8_t RA_3 [17] = "1600732413001";
+unsigned char RA_1 [17] = "xxxxxxx";
+uint8_t RA_2 [17] = "xxxxxxx";
+uint8_t RA_3 [17] = "xxxxxxx";
 
 
 
