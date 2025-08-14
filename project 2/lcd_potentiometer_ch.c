@@ -29,12 +29,12 @@ uint8_t var = 0;
 uint8_t var_2 = 0;
 uint8_t var_3 = 0;
 
-unsigned char nome_1 [17] = "Romano Bibiano ";
-uint8_t nome_2 [17] = "Gabriel Baldo ";
+unsigned char nome_1 [17] = "xxxxxxx xxxxxxx ";
+uint8_t nome_2 [17] = "xxxxxxx xxxxxxx ";
 uint8_t nome_3 [17] = "Andre Fonseca ";
-unsigned char RA_1 [17] = "1600732221002";
-uint8_t RA_2 [17] = "1600732413028";
-uint8_t RA_3 [17] = "1600732413001";
+unsigned char RA_1 [17] = "xxxxxxx";
+uint8_t RA_2 [17] = "xxxxxxx";
+uint8_t RA_3 [17] = "xxxxxxx";
 
 uint16_t pino_ch [8] = {16,15,14,13,12,11,10,9};
 uint8_t estado [8] = {0,0,0,0,0,0,0,0};
